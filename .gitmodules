@@ -1,0 +1,21 @@
+[submodule "clients/crosscopy-client-cli"]
+	path = clients/crosscopy-client-cli
+	url = git@github.com:CrossCopy/crosscopy-client-cli.git
+[submodule "clients/crosscopy-client-electron"]
+	path = clients/crosscopy-client-electron
+	url = git@github.com:CrossCopy/crosscopy-client-electron.git
+[submodule "clients/crosscopy-client-web"]
+	path = clients/crosscopy-client-web
+	url = git@github.com:CrossCopy/crosscopy-client-web.git
+[submodule "clients/crosscopy-client-qt"]
+	path = clients/crosscopy-client-qt
+	url = git@github.com:CrossCopy/crosscopy-client-qt.git
+[submodule "server/crosscopy-backend"]
+	path = server/crosscopy-backend
+	url = git@github.com:CrossCopy/crosscopy-backend.git
+[submodule "lib/crosscopy-core"]
+	path = lib/crosscopy-core
+	url = git@github.com:CrossCopy/crosscopy-core.git
+[submodule "lib/crosscopy-graphql-schema"]
+	path = lib/crosscopy-graphql-schema
+	url = git@github.com:CrossCopy/crosscopy-graphql-schema.git
