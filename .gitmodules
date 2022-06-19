@@ -19,3 +19,6 @@
 [submodule "lib/crosscopy-graphql-schema"]
 	path = lib/crosscopy-graphql-schema
 	url = git@github.com:CrossCopy/crosscopy-graphql-schema.git
+[submodule "crosscopy-doc"]
+	path = crosscopy-doc
+	url = git@github.com:CrossCopy/crosscopy-doc.git
