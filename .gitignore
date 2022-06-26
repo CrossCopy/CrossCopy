@@ -1,0 +1,4 @@
+exp/
+.vscode/
+.idea/
+node_modules/
