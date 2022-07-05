@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_try=self.webpackChunkdocusaurus_try||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Birth of CrossCopy","permalink":"/blog/birth-of-crosscopy"}]}')}}]);

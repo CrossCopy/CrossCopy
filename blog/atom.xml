@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://crosscopy.io/blog</id>
+    <title>CrossCopy Blog</title>
+    <updated>2022-07-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://crosscopy.io/blog"/>
+    <subtitle>CrossCopy Blog</subtitle>
+    <icon>https://crosscopy.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Birth of CrossCopy]]></title>
+        <id>birth-of-crosscopy</id>
+        <link href="https://crosscopy.io/blog/birth-of-crosscopy"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I made CrossCopy to solve my own problem, hopefully it will be useful to you.]]></summary>
+        <content type="html"><![CDATA[<p>I made CrossCopy to solve my own problem, hopefully it will be useful to you.</p>]]></content>
+        <author>
+            <name>Huakun Shen</name>
+            <uri>https://github.com/HuakunShen</uri>
+        </author>
+        <category label="huakun" term="huakun"/>
+    </entry>
+</feed>
